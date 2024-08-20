@@ -1,5 +1,7 @@
 # cmd
 work
+
+
 import random
 
 class ChatBot:
